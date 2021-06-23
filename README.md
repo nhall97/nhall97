@@ -2,7 +2,7 @@
 
 I'm part of our CRM Engineering Team at Deutsche Bank - Corporate Bank Technology, focusing on client centric tech and digital solutions.
 
-I try and publish the occasional interesting project here, or useful snippets or code. 
+I try and publish the occasional project here, or useful snippets or code. 
 
 Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/nathan97/)
 
