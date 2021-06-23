@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm part of our CRM Engineering Team at Deutsche Bank - Corporate Bank Technology, focusing on client centric tech and digital solutions.
+
+I try and publish the occasional interesting project here, or useful snippets or code. 
+
+Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/nathan97/)
+
 <!--
 **nhall97/nhall97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
